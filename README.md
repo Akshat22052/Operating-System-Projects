@@ -91,5 +91,5 @@ Detailed instructions on how to compile and run the SimpleLoader will be provide
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Akshat22052/Operating-System-Projects
 cd your-repository
